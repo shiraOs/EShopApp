@@ -5,6 +5,8 @@ Deployed with Heroku.
 
 In the project directory, you can run:
 
+### `npm run build`
+and then:
 ### `npm start`
 
 Runs the app in the development mode.\
