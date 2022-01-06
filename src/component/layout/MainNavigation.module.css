@@ -1,6 +1,6 @@
 .search {
   height: 48px;
-  width: 668px;
+  width: 432px;
   border-radius: 99px;
   outline: none;
   background: #ededf0;
@@ -11,7 +11,7 @@
   margin-left: 401px;
   align-items: center;
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 17.5px auto 14px;
   align-items: flex-start;
 }
 
@@ -26,7 +26,6 @@
   line-height: 158%;
   letter-spacing: 0.0075em;
   color: #19191d;
-  margin-left: 11.5px;
 }
 
 .suggestion {
@@ -34,6 +33,7 @@
   border: 0.5px solid rgba(0, 0, 0, 0.288);
   border-radius: 5px;
   background-color: white;
+  margin-left: 11.5px;
 }
 
 .suggestion:hover {
@@ -62,7 +62,7 @@
 .buttons {
   display: flex;
   column-gap: 21px;
-  margin-left: 363px;
+  margin-left: 150px;
 }
 
 .btn {

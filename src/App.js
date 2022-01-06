@@ -6,7 +6,6 @@ import AllProductsPage from "./pages/AllProducts";
 import WatchListPage from "./pages/WatchList";
 import { useState, useEffect } from 'react';
 
-
 function App () {
   const [products, setProducts] = useState([]);
 

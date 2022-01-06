@@ -2,12 +2,12 @@
   display: grid;
   grid-template-columns: 250px auto;
   margin-top: 52px;
-  margin-left: 324px;
-  margin-bottom: 292px;
+  margin-left: 40px;
+  margin-bottom: 150px;
 }
 
 .content {
-  width: 1114px;
+  width: fit-content;
   margin-top: 40px;
   margin-left: 23px;
 }

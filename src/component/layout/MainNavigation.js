@@ -41,9 +41,9 @@ function MainNavigation (props) {
 
     return (
         <Navbar bg="light" variant="light">
-            <Container fluid>
+            <Container>
                 <Navbar.Brand>
-                    < Link to='/' style={ { textDecoration: "none" } }>Shopka</Link>
+                    < Link to='/' style={ { textDecoration: "none" } }>MY-SHOPE</Link>
                 </Navbar.Brand>
                 <section className={ classes.search }>
                     <button className={ classes.done }>
