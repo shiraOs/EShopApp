@@ -8,7 +8,6 @@
   padding-left: 15px;
   padding-top: 8px;
   padding-bottom: 8px;
-  margin-left: 401px;
   align-items: center;
   display: grid;
   grid-template-columns: 17.5px auto 14px;
@@ -26,6 +25,7 @@
   line-height: 158%;
   letter-spacing: 0.0075em;
   color: #19191d;
+  width: 370px;
 }
 
 .suggestion {
@@ -33,7 +33,6 @@
   border: 0.5px solid rgba(0, 0, 0, 0.288);
   border-radius: 5px;
   background-color: white;
-  margin-left: 11.5px;
 }
 
 .suggestion:hover {
@@ -45,6 +44,8 @@
   border: none;
   outline: none;
   padding-top: 3px;
+  padding-left: 0px;
+  padding-right: 0px;
   font-size: 17.5px;
   width: 17.5px;
 }

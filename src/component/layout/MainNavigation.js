@@ -43,7 +43,7 @@ function MainNavigation (props) {
         <Navbar bg="light" variant="light">
             <Container>
                 <Navbar.Brand>
-                    < Link to='/' style={ { textDecoration: "none" } }>MY-SHOPE</Link>
+                    < Link to='/' style={ { textDecoration: "none" } }>MY-ESHOPE</Link>
                 </Navbar.Brand>
                 <section className={ classes.search }>
                     <button className={ classes.done }>
@@ -73,7 +73,6 @@ function MainNavigation (props) {
                     < button className={ classes.btn }>
                         My cart
                     </button>
-                    {/* avatar */ }
                 </section>
             </Container>
         </Navbar >

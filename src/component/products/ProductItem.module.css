@@ -1,5 +1,4 @@
 .image {
-  /* position: relative; */
   height: 224px;
   width: 227px;
   margin-left: 16px;
@@ -88,12 +87,14 @@
   line-height: 143%;
   letter-spacing: 0.018em;
   color: #2264d1;
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: baseline;
+  justify-content: space-evenly;
 }
 
 .btnIcon {
-  height: 12.845001220703125px;
-  width: 14px;
+  height: 11px;
   border-radius: 0px;
-  margin-right: 4px;
   margin-bottom: 2px;
 }
