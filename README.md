@@ -1,6 +1,6 @@
 # Ecommerce Shopping App
 
-This project was built using React.js, Node.js & express.
+This project was built using React.js, Node.js & express.\
 Deployed with Heroku.
 
 In the project directory, you can run:
@@ -12,5 +12,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 #
 
-Runs the app in the deployment mode.\
+Run the app in the deployment mode.\
 Open [https://my-eshopping-app.herokuapp.com/](https://my-eshopping-app.herokuapp.com/) to view it in your browser.
