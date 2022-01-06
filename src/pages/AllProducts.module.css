@@ -1,0 +1,13 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 250px auto;
+  margin-top: 52px;
+  margin-left: 324px;
+  margin-bottom: 292px;
+}
+
+.content {
+  width: 1114px;
+  margin-top: 40px;
+  margin-left: 23px;
+}

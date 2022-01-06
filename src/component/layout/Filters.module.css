@@ -1,0 +1,46 @@
+.wrapper {
+  width: 245px;
+  margin-right: 23px;
+  padding-top: 203px;
+}
+
+.slider {
+  margin-bottom: 39px;
+  padding-right: 23px;
+}
+
+.slider_title {
+  width: 140px;
+  height: 36px;
+  margin-bottom: 15px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+
+  color: #000000;
+}
+
+.reviews {
+  width: 243px;
+  height: 102px;
+  font-size: 14px;
+}
+
+.reviews_title {
+  font-weight: bold;
+}
+
+.rate_stars {
+  font-size: 11px;
+  display: inline-flex;
+  margin-inline-end: 12px;
+  cursor: pointer;
+}
+
+.rate_text {
+  margin-left: 2px;
+  margin-top: 3px;
+}

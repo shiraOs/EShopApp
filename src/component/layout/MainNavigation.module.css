@@ -1,0 +1,82 @@
+.search {
+  height: 48px;
+  width: 668px;
+  border-radius: 99px;
+  outline: none;
+  background: #ededf0;
+  padding-right: 17px;
+  padding-left: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  margin-left: 401px;
+  align-items: center;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  align-items: flex-start;
+}
+
+.search .text {
+  background: none;
+  border: none;
+  outline: none;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 158%;
+  letter-spacing: 0.0075em;
+  color: #19191d;
+  margin-left: 11.5px;
+}
+
+.suggestion {
+  cursor: pointer;
+  border: 0.5px solid rgba(0, 0, 0, 0.288);
+  border-radius: 5px;
+  background-color: white;
+}
+
+.suggestion:hover {
+  background-color: grey;
+}
+
+.search .done {
+  background: none;
+  border: none;
+  outline: none;
+  padding-top: 3px;
+  font-size: 17.5px;
+  width: 17.5px;
+}
+
+.search .cancel {
+  background: none;
+  border: none;
+  outline: none;
+  color: #2979ff;
+  padding-top: 6px;
+  font-size: 14px;
+  width: 14px;
+}
+
+.buttons {
+  display: flex;
+  column-gap: 21px;
+  margin-left: 363px;
+}
+
+.btn {
+  height: 40px;
+  width: 104px;
+  border-radius: 4px;
+  border: 1px solid #9dc2ff;
+  box-sizing: border-box;
+  font-family: Quicksand;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 150%;
+  text-align: center;
+  letter-spacing: 0.0075em;
+  color: #2264d1;
+}
