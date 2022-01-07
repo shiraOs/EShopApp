@@ -5,9 +5,9 @@ Deployed with Heroku.
 
 In the project directory, you can run:
 
-### `npm run build`
-and then:
-### `npm start`
+1. ### `npm install`
+2. ### `npm run build`
+3. ### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
